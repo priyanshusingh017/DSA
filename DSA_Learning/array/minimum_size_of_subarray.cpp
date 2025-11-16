@@ -3,8 +3,6 @@
 #include<algorithm>
 using namespace std;
 
-
-
 int minsubarraysize(vector<int>&nums , int target){
 
     int l=0; 
