@@ -64,6 +64,6 @@ This project is licensed—see [LICENSE.md](LICENSE.md).
 
 ---
 
-> “The only way to learn programming is by writing programs.” – Dennis Ritchie
+> “ The only way to learn programming is by writing programs. ” – Dennis Ritchie
 
 
