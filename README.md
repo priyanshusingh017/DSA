@@ -3,7 +3,7 @@
 Welcome to my **Data Structures and Algorithms (DSA)** repository! 🎯
 This is my daily log of problems and solutions to build strong fundamentals and problem‑solving skills.
 
----
+
 
 ## About
 
@@ -64,6 +64,6 @@ This project is licensed—see [LICENSE.md](LICENSE.md).
 
 ---
 
-> **“The only way to learn programming is by writing programs.” – Dennis Ritchie**
+> “The only way to learn programming is by writing programs.” – Dennis Ritchie
 
 
