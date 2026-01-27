@@ -1,0 +1,15 @@
+D:\Code\Dsa\c#\Count_Frequency\bin\Debug\net10.0\Count_Frequency.exe
+D:\Code\Dsa\c#\Count_Frequency\bin\Debug\net10.0\Count_Frequency.deps.json
+D:\Code\Dsa\c#\Count_Frequency\bin\Debug\net10.0\Count_Frequency.runtimeconfig.json
+D:\Code\Dsa\c#\Count_Frequency\bin\Debug\net10.0\Count_Frequency.dll
+D:\Code\Dsa\c#\Count_Frequency\bin\Debug\net10.0\Count_Frequency.pdb
+D:\Code\Dsa\c#\Count_Frequency\obj\Debug\net10.0\Count_Frequency.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Dsa\c#\Count_Frequency\obj\Debug\net10.0\Count_Frequency.AssemblyInfoInputs.cache
+D:\Code\Dsa\c#\Count_Frequency\obj\Debug\net10.0\Count_Frequency.AssemblyInfo.cs
+D:\Code\Dsa\c#\Count_Frequency\obj\Debug\net10.0\Count_Frequency.csproj.CoreCompileInputs.cache
+D:\Code\Dsa\c#\Count_Frequency\obj\Debug\net10.0\Count_Frequency.sourcelink.json
+D:\Code\Dsa\c#\Count_Frequency\obj\Debug\net10.0\Count_Frequency.dll
+D:\Code\Dsa\c#\Count_Frequency\obj\Debug\net10.0\refint\Count_Frequency.dll
+D:\Code\Dsa\c#\Count_Frequency\obj\Debug\net10.0\Count_Frequency.pdb
+D:\Code\Dsa\c#\Count_Frequency\obj\Debug\net10.0\Count_Frequency.genruntimeconfig.cache
+D:\Code\Dsa\c#\Count_Frequency\obj\Debug\net10.0\ref\Count_Frequency.dll

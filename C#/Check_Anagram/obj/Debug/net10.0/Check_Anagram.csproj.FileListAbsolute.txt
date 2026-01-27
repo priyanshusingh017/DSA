@@ -1,0 +1,15 @@
+D:\Code\Dsa\c#\Check_Anagram\bin\Debug\net10.0\Check_Anagram.exe
+D:\Code\Dsa\c#\Check_Anagram\bin\Debug\net10.0\Check_Anagram.deps.json
+D:\Code\Dsa\c#\Check_Anagram\bin\Debug\net10.0\Check_Anagram.runtimeconfig.json
+D:\Code\Dsa\c#\Check_Anagram\bin\Debug\net10.0\Check_Anagram.dll
+D:\Code\Dsa\c#\Check_Anagram\bin\Debug\net10.0\Check_Anagram.pdb
+D:\Code\Dsa\c#\Check_Anagram\obj\Debug\net10.0\Check_Anagram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Dsa\c#\Check_Anagram\obj\Debug\net10.0\Check_Anagram.AssemblyInfoInputs.cache
+D:\Code\Dsa\c#\Check_Anagram\obj\Debug\net10.0\Check_Anagram.AssemblyInfo.cs
+D:\Code\Dsa\c#\Check_Anagram\obj\Debug\net10.0\Check_Anagram.csproj.CoreCompileInputs.cache
+D:\Code\Dsa\c#\Check_Anagram\obj\Debug\net10.0\Check_Anagram.sourcelink.json
+D:\Code\Dsa\c#\Check_Anagram\obj\Debug\net10.0\Check_Anagram.dll
+D:\Code\Dsa\c#\Check_Anagram\obj\Debug\net10.0\refint\Check_Anagram.dll
+D:\Code\Dsa\c#\Check_Anagram\obj\Debug\net10.0\Check_Anagram.pdb
+D:\Code\Dsa\c#\Check_Anagram\obj\Debug\net10.0\Check_Anagram.genruntimeconfig.cache
+D:\Code\Dsa\c#\Check_Anagram\obj\Debug\net10.0\ref\Check_Anagram.dll
