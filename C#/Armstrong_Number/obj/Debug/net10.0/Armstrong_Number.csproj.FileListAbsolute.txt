@@ -1,0 +1,15 @@
+D:\Code\Dsa\c#\Armstrong_Number\bin\Debug\net10.0\Armstrong_Number.exe
+D:\Code\Dsa\c#\Armstrong_Number\bin\Debug\net10.0\Armstrong_Number.deps.json
+D:\Code\Dsa\c#\Armstrong_Number\bin\Debug\net10.0\Armstrong_Number.runtimeconfig.json
+D:\Code\Dsa\c#\Armstrong_Number\bin\Debug\net10.0\Armstrong_Number.dll
+D:\Code\Dsa\c#\Armstrong_Number\bin\Debug\net10.0\Armstrong_Number.pdb
+D:\Code\Dsa\c#\Armstrong_Number\obj\Debug\net10.0\Armstrong_Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Dsa\c#\Armstrong_Number\obj\Debug\net10.0\Armstrong_Number.AssemblyInfoInputs.cache
+D:\Code\Dsa\c#\Armstrong_Number\obj\Debug\net10.0\Armstrong_Number.AssemblyInfo.cs
+D:\Code\Dsa\c#\Armstrong_Number\obj\Debug\net10.0\Armstrong_Number.csproj.CoreCompileInputs.cache
+D:\Code\Dsa\c#\Armstrong_Number\obj\Debug\net10.0\Armstrong_Number.sourcelink.json
+D:\Code\Dsa\c#\Armstrong_Number\obj\Debug\net10.0\Armstrong_Number.dll
+D:\Code\Dsa\c#\Armstrong_Number\obj\Debug\net10.0\refint\Armstrong_Number.dll
+D:\Code\Dsa\c#\Armstrong_Number\obj\Debug\net10.0\Armstrong_Number.pdb
+D:\Code\Dsa\c#\Armstrong_Number\obj\Debug\net10.0\Armstrong_Number.genruntimeconfig.cache
+D:\Code\Dsa\c#\Armstrong_Number\obj\Debug\net10.0\ref\Armstrong_Number.dll
