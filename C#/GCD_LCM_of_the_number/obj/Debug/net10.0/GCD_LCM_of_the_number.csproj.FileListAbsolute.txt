@@ -1,0 +1,15 @@
+D:\Code\Dsa\c#\GCD_LCM_of_the_number\bin\Debug\net10.0\GCD_LCM_of_the_number.exe
+D:\Code\Dsa\c#\GCD_LCM_of_the_number\bin\Debug\net10.0\GCD_LCM_of_the_number.deps.json
+D:\Code\Dsa\c#\GCD_LCM_of_the_number\bin\Debug\net10.0\GCD_LCM_of_the_number.runtimeconfig.json
+D:\Code\Dsa\c#\GCD_LCM_of_the_number\bin\Debug\net10.0\GCD_LCM_of_the_number.dll
+D:\Code\Dsa\c#\GCD_LCM_of_the_number\bin\Debug\net10.0\GCD_LCM_of_the_number.pdb
+D:\Code\Dsa\c#\GCD_LCM_of_the_number\obj\Debug\net10.0\GCD_LCM_of_the_number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Dsa\c#\GCD_LCM_of_the_number\obj\Debug\net10.0\GCD_LCM_of_the_number.AssemblyInfoInputs.cache
+D:\Code\Dsa\c#\GCD_LCM_of_the_number\obj\Debug\net10.0\GCD_LCM_of_the_number.AssemblyInfo.cs
+D:\Code\Dsa\c#\GCD_LCM_of_the_number\obj\Debug\net10.0\GCD_LCM_of_the_number.csproj.CoreCompileInputs.cache
+D:\Code\Dsa\c#\GCD_LCM_of_the_number\obj\Debug\net10.0\GCD_LCM_of_the_number.sourcelink.json
+D:\Code\Dsa\c#\GCD_LCM_of_the_number\obj\Debug\net10.0\GCD_LCM_of_the_number.dll
+D:\Code\Dsa\c#\GCD_LCM_of_the_number\obj\Debug\net10.0\refint\GCD_LCM_of_the_number.dll
+D:\Code\Dsa\c#\GCD_LCM_of_the_number\obj\Debug\net10.0\GCD_LCM_of_the_number.pdb
+D:\Code\Dsa\c#\GCD_LCM_of_the_number\obj\Debug\net10.0\GCD_LCM_of_the_number.genruntimeconfig.cache
+D:\Code\Dsa\c#\GCD_LCM_of_the_number\obj\Debug\net10.0\ref\GCD_LCM_of_the_number.dll

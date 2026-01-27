@@ -1,0 +1,15 @@
+D:\Code\Dsa\c#\find_missing_num\bin\Debug\net10.0\find_missing_num.exe
+D:\Code\Dsa\c#\find_missing_num\bin\Debug\net10.0\find_missing_num.deps.json
+D:\Code\Dsa\c#\find_missing_num\bin\Debug\net10.0\find_missing_num.runtimeconfig.json
+D:\Code\Dsa\c#\find_missing_num\bin\Debug\net10.0\find_missing_num.dll
+D:\Code\Dsa\c#\find_missing_num\bin\Debug\net10.0\find_missing_num.pdb
+D:\Code\Dsa\c#\find_missing_num\obj\Debug\net10.0\find_missing_num.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Dsa\c#\find_missing_num\obj\Debug\net10.0\find_missing_num.AssemblyInfoInputs.cache
+D:\Code\Dsa\c#\find_missing_num\obj\Debug\net10.0\find_missing_num.AssemblyInfo.cs
+D:\Code\Dsa\c#\find_missing_num\obj\Debug\net10.0\find_missing_num.csproj.CoreCompileInputs.cache
+D:\Code\Dsa\c#\find_missing_num\obj\Debug\net10.0\find_missing_num.sourcelink.json
+D:\Code\Dsa\c#\find_missing_num\obj\Debug\net10.0\find_missing_num.dll
+D:\Code\Dsa\c#\find_missing_num\obj\Debug\net10.0\refint\find_missing_num.dll
+D:\Code\Dsa\c#\find_missing_num\obj\Debug\net10.0\find_missing_num.pdb
+D:\Code\Dsa\c#\find_missing_num\obj\Debug\net10.0\find_missing_num.genruntimeconfig.cache
+D:\Code\Dsa\c#\find_missing_num\obj\Debug\net10.0\ref\find_missing_num.dll
