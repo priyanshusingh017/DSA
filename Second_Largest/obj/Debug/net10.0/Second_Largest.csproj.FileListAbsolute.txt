@@ -1,0 +1,15 @@
+D:\Code\Dsa\Second_Largest\bin\Debug\net10.0\Second_Largest.exe
+D:\Code\Dsa\Second_Largest\bin\Debug\net10.0\Second_Largest.deps.json
+D:\Code\Dsa\Second_Largest\bin\Debug\net10.0\Second_Largest.runtimeconfig.json
+D:\Code\Dsa\Second_Largest\bin\Debug\net10.0\Second_Largest.dll
+D:\Code\Dsa\Second_Largest\bin\Debug\net10.0\Second_Largest.pdb
+D:\Code\Dsa\Second_Largest\obj\Debug\net10.0\Second_Largest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Dsa\Second_Largest\obj\Debug\net10.0\Second_Largest.AssemblyInfoInputs.cache
+D:\Code\Dsa\Second_Largest\obj\Debug\net10.0\Second_Largest.AssemblyInfo.cs
+D:\Code\Dsa\Second_Largest\obj\Debug\net10.0\Second_Largest.csproj.CoreCompileInputs.cache
+D:\Code\Dsa\Second_Largest\obj\Debug\net10.0\Second_Largest.sourcelink.json
+D:\Code\Dsa\Second_Largest\obj\Debug\net10.0\Second_Largest.dll
+D:\Code\Dsa\Second_Largest\obj\Debug\net10.0\refint\Second_Largest.dll
+D:\Code\Dsa\Second_Largest\obj\Debug\net10.0\Second_Largest.pdb
+D:\Code\Dsa\Second_Largest\obj\Debug\net10.0\Second_Largest.genruntimeconfig.cache
+D:\Code\Dsa\Second_Largest\obj\Debug\net10.0\ref\Second_Largest.dll
